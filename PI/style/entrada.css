@@ -1,0 +1,314 @@
+/* ====================================================== */
+/* ====================== GERAL ========================= */
+/* ====================================================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Jura', Arial, sans-serif;
+  background-color: #0c0c0c;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ====================================================== */
+/* ====================== HEADER ======================== */
+/* ====================================================== */
+header {
+  background-color: #3A5A8C;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 36px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+  position: relative;
+  z-index: 10;
+}
+
+.logo {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap:0;
+}
+
+.logo_cabecalho {
+  height: 110px;
+  width: auto;
+}
+
+.datetime-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0;
+}
+
+.date {
+  font-family: 'Changa', sans-serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #fff;
+  line-height: 1;
+}
+
+.time {
+  font-family: 'Changa', sans-serif;
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: 1px;
+  line-height: 1;
+}
+
+.btn-terminar {
+  background-color: #852527;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 6px;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 700;
+  font-family: 'Changa', sans-serif;
+  transition: all 0.3s ease;
+  font-size: 1.1rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  white-space: nowrap;
+}
+
+.btn-terminar:hover {
+  background-color: #a93232;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.4);
+}
+
+/* ====================================================== */
+/* ================ CONTEÚDO PRINCIPAL ================== */
+/* ====================================================== */
+.main-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #0c0c0c 0%, #1a1a1a 100%);
+  padding: 40px 20px;
+}
+
+.biometria-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  gap: 60px;
+}
+
+.content-right {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+/* Ícone de Digital */
+.fingerprint-icon {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.icon_bio {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  /*filter: drop-shadow(0 0 25px rgba(255, 255, 255, 0.4));*/
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 0.8;
+  }
+}
+
+/* Título Principal */
+.title {
+  font-family: 'Changa', sans-serif;
+  font-size: 4.5rem;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-shadow: 0 4px 10px rgba(0,0,0,0.6);
+  line-height: 1.2;
+  margin-bottom: 30px;
+}
+
+/* Mensagem de Status */
+.status-message {
+  font-family: 'Jura', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #fff;
+  min-width: 350px;
+  transition: all 0.3s ease;
+}
+
+/* ====================================================== */
+/* ====================== FOOTER ======================== */
+/* ====================================================== */
+.site-footer {
+  background-color: #111;
+  color: #fff;
+  border-top: 1px solid #222;
+  position: relative;
+  z-index: 10;
+}
+
+.footer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.img_email {
+  height: 20px;
+  width: auto;
+}
+
+.contact-text {
+  font-size: 0.95rem;
+  font-weight: 500;
+  font-family: 'Jura', sans-serif;
+  color: #fff;
+}
+
+.footer-center {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-align: center;
+}
+
+.logo_rodape {
+  height: 36px;
+  width: auto;
+}
+
+.center-text {
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.85);
+  max-width: 420px;
+  line-height: 1.3;
+}
+
+.footer-right {
+  font-size: 0.9rem;
+  font-family: 'Jura', sans-serif;
+  color: rgba(255,255,255,0.8);
+}
+
+/* ====================================================== */
+/* ==================== RESPONSIVIDADE ================== */
+/* ====================================================== */
+@media (max-width: 1200px) {
+  .title {
+    font-size: 3.5rem;
+  }
+
+  .fingerprint-icon {
+    width: 250px;
+    height: 250px;
+  }
+}
+
+@media (max-width: 900px) {
+  header {
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+  }
+
+  .datetime-container {
+    align-items: center;
+  }
+
+  .biometria-container {
+    flex-direction: column;
+    text-align: center;
+    gap: 30px;
+  }
+
+  .content-right {
+    align-items: center;
+  }
+
+  .title {
+    font-size: 2.8rem;
+    text-align: center;
+  }
+
+  .fingerprint-icon {
+    width: 200px;
+    height: 200px;
+  }
+
+  .footer-inner {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .center-text {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 2rem;
+    padding: 0 20px;
+  }
+
+  .date {
+    font-size: 1.1rem;
+  }
+
+  .time {
+    font-size: 1.6rem;
+  }
+
+  .btn-terminar {
+    padding: 12px 20px;
+    font-size: 1rem;
+  }
+
+  .status-message {
+    font-size: 1.2rem;
+    min-width: 250px;
+  }
+}

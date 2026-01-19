@@ -1,0 +1,2756 @@
+[01:31:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:33] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[01:31:34] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[01:31:34] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[01:31:35] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[01:31:35] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[01:31:36] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[01:31:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:39] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 1,
+  "confianca": 93,
+  "timestamp": "2025-11-04 21:31:39",
+  "data": "2025-11-
+   Sensor ID: 1 | Timestamp: 2025-11-04 21:31:39
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 0 resultado(s)
+   [ERRO] Sensor ID 1 nao encontrado no banco
+[01:31:40] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[01:31:40] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[01:31:41] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[01:31:41] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[01:31:42] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[01:31:42] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[01:31:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:31:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:32:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:32:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:32:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:32:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[01:32:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:54] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 1,
+  "confianca": 140,
+  "timestamp": "2025-11-05 12:44:54",
+  "data": "2025-11
+   Sensor ID: 1 | Timestamp: 2025-11-05 12:44:54
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 0 resultado(s)
+   [ERRO] Sensor ID 1 nao encontrado no banco
+[16:44:55] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:44:55] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:44:56] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:44:56] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:44:57] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:44:57] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:44:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:44:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:10] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:45:11] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:45:12] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:45:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:25] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:45:26] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:45:27] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:45:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:40] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:45:41] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:45:42] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:45:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:45:55] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:45:56] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:45:57] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:45:58] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[16:45:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:46:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:46:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:46:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:46:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:46:26] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:47:26] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:48:26] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:49:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:40] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:40] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:49:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:40] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:40] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:50:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:51:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:40] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[16:52:40] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[16:52:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:46] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 2,
+  "confianca": 214,
+  "timestamp": "2025-11-05 12:52:46",
+  "data": "2025-11
+   Sensor ID: 2 | Timestamp: 2025-11-05 12:52:46
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 1 resultado(s)
+   [ALUNO ENCONTRADO] Filipe Uggioni Possamai
+   Data: 2025-11-05 | Hora: 16:52:46
+   [BANCO] Novo registro inserido
+   [SUCESSO] Entrada registrada!
+[16:52:47] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:52:47] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:52:48] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:52:48] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:52:49] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:52:49] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:52:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:53] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 1,
+  "confianca": 111,
+  "timestamp": "2025-11-05 12:52:53",
+  "data": "2025-11
+   Sensor ID: 1 | Timestamp: 2025-11-05 12:52:53
+   Ultimo processado: 2025-11-05 12:52:46
+   [NOVO] Processando reconhecimento...
+   Query executada: 0 resultado(s)
+   [ERRO] Sensor ID 1 nao encontrado no banco
+[16:52:53] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:52:54] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:52:54] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:52:55] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:52:55] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:52:56] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[16:52:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:52:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:01] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 1,
+  "confianca": 226,
+  "timestamp": "2025-11-05 12:53:00",
+  "data": "2025-11
+   Sensor ID: 1 | Timestamp: 2025-11-05 12:53:00
+   Ultimo processado: 2025-11-05 12:52:53
+   [NOVO] Processando reconhecimento...
+   Query executada: 0 resultado(s)
+   [ERRO] Sensor ID 1 nao encontrado no banco
+[16:53:01] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[16:53:02] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:53:02] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[16:53:03] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:53:03] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[16:53:04] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[16:53:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[16:53:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:45] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[19:01:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:50] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 1,
+  "confianca": 102,
+  "timestamp": "2025-11-05 15:01:50",
+  "data": "2025-11
+   Sensor ID: 1 | Timestamp: 2025-11-05 15:01:50
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 0 resultado(s)
+   [ERRO] Sensor ID 1 nao encontrado no banco
+[19:01:50] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[19:01:51] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[19:01:51] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[19:01:52] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[19:01:52] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[19:01:53] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[19:01:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:01:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:06] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[19:02:06] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[19:02:07] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[19:02:07] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[19:02:08] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[19:02:08] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[19:02:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:40] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:02:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:03:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:04:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:04:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:04:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:04:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:20] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[19:06:20] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[19:06:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:24] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 6,
+  "confianca": 158,
+  "timestamp": "2025-11-05 15:06:24",
+  "data": "2025-11
+   Sensor ID: 6 | Timestamp: 2025-11-05 15:06:24
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 1 resultado(s)
+   [ALUNO ENCONTRADO] Matheus Uggioni Possamai
+   Data: 2025-11-05 | Hora: 19:06:24
+   [BANCO] Novo registro inserido
+   [SUCESSO] Entrada registrada!
+[19:06:24] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[19:06:25] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[19:06:25] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[19:06:26] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[19:06:26] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[19:06:27] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[19:06:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:06:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:13] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[19:07:13] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[19:07:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:16] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 5,
+  "confianca": 146,
+  "timestamp": "2025-11-05 15:07:16",
+  "data": "2025-11
+   Sensor ID: 5 | Timestamp: 2025-11-05 15:07:16
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 1 resultado(s)
+   [ALUNO ENCONTRADO] Luiz Fernando Cardoso Roberge
+   Data: 2025-11-05 | Hora: 19:07:16
+   [BANCO] Novo registro inserido
+   [SUCESSO] Entrada registrada!
+[19:07:17] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[19:07:17] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[19:07:18] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[19:07:18] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[19:07:19] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[19:07:20] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[19:07:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:07:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:27] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 1,
+  "confianca": 123,
+  "timestamp": "2025-11-05 15:13:17",
+  "data": "2025-11
+   Sensor ID: 1 | Timestamp: 2025-11-05 15:13:17
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 0 resultado(s)
+   [ERRO] Sensor ID 1 nao encontrado no banco
+[19:22:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[19:22:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:19] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:03:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:27] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 1,
+  "confianca": 85,
+  "timestamp": "2025-11-05 16:03:27",
+  "data": "2025-11-
+   Sensor ID: 1 | Timestamp: 2025-11-05 16:03:27
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 0 resultado(s)
+   [ERRO] Sensor ID 1 nao encontrado no banco
+[20:03:27] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:03:28] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:03:28] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:03:29] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:03:29] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:03:30] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:03:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:37] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 0,
+  "confianca": 0,
+  "timestamp": "2025-11-05 16:03:37",
+  "data": "2025-11-0
+   Sensor ID: 0 | Timestamp: 2025-11-05 16:03:37
+   Ultimo processado: 2025-11-05 16:03:27
+   [NOVO] Processando reconhecimento...
+   [RESULTADO] Digital nao cadastrada
+[20:03:38] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:03:38] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:03:39] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:03:39] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:03:40] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:03:40] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:03:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:42] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 0,
+  "confianca": 0,
+  "timestamp": "2025-11-05 16:03:42",
+  "data": "2025-11-0
+   Sensor ID: 0 | Timestamp: 2025-11-05 16:03:42
+   Ultimo processado: 2025-11-05 16:03:37
+   [NOVO] Processando reconhecimento...
+   [RESULTADO] Digital nao cadastrada
+[20:03:43] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:03:43] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:03:44] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:03:44] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:03:45] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:03:45] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:03:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:03:58] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:03:58] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:03:59] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:03:59] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:04:00] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:04:00] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:04:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:04:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:28] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:08:29] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:08:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:34] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 8,
+  "confianca": 104,
+  "timestamp": "2025-11-05 16:08:33",
+  "data": "2025-11
+   Sensor ID: 8 | Timestamp: 2025-11-05 16:08:33
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 1 resultado(s)
+   [ALUNO ENCONTRADO] Felson Lisbino
+   Data: 2025-11-05 | Hora: 20:08:34
+   [BANCO] Novo registro inserido
+   [SUCESSO] Entrada registrada!
+[20:08:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:38] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 8,
+  "confianca": 149,
+  "timestamp": "2025-11-05 16:08:38",
+  "data": "2025-11
+   Sensor ID: 8 | Timestamp: 2025-11-05 16:08:38
+   Ultimo processado: 2025-11-05 16:08:33
+   [NOVO] Processando reconhecimento...
+   Query executada: 1 resultado(s)
+   [ALUNO ENCONTRADO] Felson Lisbino
+   Data: 2025-11-05 | Hora: 20:08:38
+   [BANCO] Registro atualizado
+   [SUCESSO] Entrada registrada!
+[20:08:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:39] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:08:40] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:08:40] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:08:41] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:08:41] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:08:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:55] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:08:56] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:08:57] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:08:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:08:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:10] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:09:11] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:09:12] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:09:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:25] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:09:26] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:09:27] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:09:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:40] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:09:41] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:09:42] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:09:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:09:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:10:25] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:11:25] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:12:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:13:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:26] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:14:27] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:14:28] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:14:28] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:14:29] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:14:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:40] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:14:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:15:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:16:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:17:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:18:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:19:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:20:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:21:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:22:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:23:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:24:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:25:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:26:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:27:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:28:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:29:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:30:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:31:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:32:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:33:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:34:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:35:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:36:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:37:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:38:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:39:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:40:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:41:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:42:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:43:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:44:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:45:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:46:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:47:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:47:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:47:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:47:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:47:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:46] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:52:47] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[20:52:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:57] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:58] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:52:59] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:00] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:53:00] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:53:01] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:53:01] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:53:02] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:53:02] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:53:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:07] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 1,
+  "confianca": 216,
+  "timestamp": "2025-11-05 16:53:07",
+  "data": "2025-11
+   Sensor ID: 1 | Timestamp: 2025-11-05 16:53:07
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   Query executada: 0 resultado(s)
+   [ERRO] Sensor ID 1 nao encontrado no banco
+[20:53:08] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:53:08] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:53:09] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:53:09] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:53:10] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:53:10] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:53:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:23] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:53:23] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[20:53:24] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:53:24] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[20:53:25] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:53:25] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[20:53:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[20:53:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:05] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 0,
+  "confianca": 0,
+  "timestamp": "2025-11-05 17:01:04",
+  "data": "2025-11-0
+   Sensor ID: 0 | Timestamp: 2025-11-05 17:01:04
+   Ultimo processado: 
+   [NOVO] Processando reconhecimento...
+   [RESULTADO] Digital nao cadastrada
+[21:01:05] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[21:01:06] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:01:06] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:01:07] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:01:07] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 0,
+  "confianca": 0,
+  "timestamp": "2025-11-05 17:01:07",
+  "data": "2025-11-0
+   Sensor ID: 0 | Timestamp: 2025-11-05 17:01:07
+   Ultimo processado: 2025-11-05 17:01:04
+   [NOVO] Processando reconhecimento...
+   [RESULTADO] Digital nao cadastrada
+[21:01:08] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[21:01:08] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[21:01:09] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:01:09] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:01:10] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:01:10] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:01:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:12] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:13] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:14] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:15] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:25] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:01:26] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:01:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:34] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:35] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:36] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:39] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:01:39] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:01:40] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:01:40] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:01:41] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:01:41] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 7,
+  "confianca": 460,
+  "timestamp": "2025-11-05 17:01:41",
+  "data": "2025-11
+   Sensor ID: 7 | Timestamp: 2025-11-05 17:01:41
+   Ultimo processado: 2025-11-05 17:01:07
+   [NOVO] Processando reconhecimento...
+   Query executada: 1 resultado(s)
+   [ALUNO ENCONTRADO] joaquim de bem marques de carvalho
+   Data: 2025-11-05 | Hora: 21:01:41
+   [BANCO] Novo registro inserido
+   [SUCESSO] Entrada registrada!
+[21:01:42] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:01:42] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:01:43] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:01:43] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:01:44] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:01:44] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:01:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:51] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:52] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:53] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:54] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:55] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:56] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:01:57] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[21:01:58] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:01:59] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:02:00] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:01] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:02] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:03] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:04] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:05] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:06] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:07] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:08] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:09] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:10] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:11] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:12] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[21:02:13] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:14] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:02:15] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:02:16] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:17] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:18] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:22] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 8,
+  "confianca": 62,
+  "timestamp": "2025-11-05 17:02:22",
+  "data": "2025-11-
+   Sensor ID: 8 | Timestamp: 2025-11-05 17:02:22
+   Ultimo processado: 2025-11-05 17:01:41
+   [NOVO] Processando reconhecimento...
+   Query executada: 1 resultado(s)
+   [ALUNO ENCONTRADO] Felson Lisbino
+   Data: 2025-11-05 | Hora: 21:02:22
+   [BANCO] Registro atualizado
+   [SUCESSO] Entrada registrada!
+[21:02:22] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:22] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[21:02:23] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:23] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:23] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:24] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[21:02:25] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:25] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:25] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:26] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:02:26] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:02:26] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:02:27] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:02:27] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:02:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:28] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:31] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:33] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:33] Monitor chamado
+   Arquivo reconhecimento encontrado
+   Conteudo: {
+  "sensor_id": 8,
+  "confianca": 91,
+  "timestamp": "2025-11-05 17:02:33",
+  "data": "2025-11-
+   Sensor ID: 8 | Timestamp: 2025-11-05 17:02:33
+   Ultimo processado: 2025-11-05 17:02:22
+   [NOVO] Processando reconhecimento...
+   Query executada: 1 resultado(s)
+   [ALUNO ENCONTRADO] Felson Lisbino
+   Data: 2025-11-05 | Hora: 21:02:33
+   [BANCO] Registro atualizado
+   [SUCESSO] Entrada registrada!
+[21:02:33] Monitor chamado
+   Leitura ativa detectada (tempo: 0s)
+[21:02:34] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:34] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:34] Monitor chamado
+   Leitura ativa detectada (tempo: 1s)
+[21:02:35] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:02:35] Monitor chamado
+   Leitura ativa detectada (tempo: 2s)
+[21:02:36] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:02:36] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:02:36] Monitor chamado
+   Leitura ativa detectada (tempo: 3s)
+[21:02:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:37] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:38] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:39] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:40] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:40] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:40] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:41] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:42] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:43] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:44] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:45] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:46] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:47] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:48] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:49] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:02:50] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:03:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:04:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:05:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:19] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:20] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:21] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:23] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:24] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:25] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:26] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:27] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:29] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:30] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:06:32] Monitor chamado
+   [PADRAO] Aguardando leitura
+[21:07:25] Monitor chamado
+   [PADRAO] Aguardando leitura

@@ -1,0 +1,531 @@
+/* ====================================================== */
+/* ====================== GERAL ========================= */
+/* ====================================================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Jura', Arial, sans-serif;
+  background-color: #0c0c0c;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding-top: 80px;
+}
+
+/* ====================================================== */
+/* ====================== HEADER ======================== */
+/* ====================================================== */
+header {
+  background-color: #3A5A8C;
+  display: flex;
+  align-items: center;
+  padding: 14px 36px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo_cabecalho {
+  height: 50px;
+  width: auto;
+  border-radius: 6px;
+}
+
+.usuario {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  color: #fff;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  font-weight: 500;
+}
+
+.usuario strong {
+  font-family: 'Changa', sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.btn-voltar {
+  background-color: #852527;
+  border: none;
+  padding: 10px 22px;
+  border-radius: 6px;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  font-family: 'Changa', sans-serif;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  margin-left: auto;
+  font-size: 1rem;
+}
+
+.btn-voltar:hover {
+  background-color: #a93232;
+  transform: scale(1.03);
+}
+
+/* ====================================================== */
+/* ================== CONTEÚDO PRINCIPAL ================ */
+/* ====================================================== */
+.caixa_usuario {
+  background-color: #111;
+  border-radius: 10px;
+  padding: 0;
+  margin: 60px auto;
+  max-width: 750px;
+  width: 95%;
+  text-align: center;
+  box-shadow: 0px 4px 14px rgba(0,0,0,0.6);
+  border: 2px solid #2d2d2d;
+  overflow: hidden;
+}
+
+/* ====================================================== */
+/* ================== TÍTULO DO FORM ==================== */
+/* ====================================================== */
+.titulo-container {
+  width: 100%;
+  background-color: #191919;
+  border: 8px solid #333333;
+  padding: 18px 10px 14px 10px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  text-align: center;
+}
+
+.caixa_usuario h1 {
+  color: #fff;
+  font-family: 'Changa', sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin: 0 0 6px 0;
+}
+
+.subtitulo {
+  color: #bcbcbc;
+  font-family: 'Jura', sans-serif;
+  font-size: 0.95rem;
+  margin-bottom: 5px;
+}
+
+/* ====================================================== */
+/* ====================== FORMULÁRIO ==================== */
+/* ====================================================== */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background-color: #1b1b1b;
+  padding: 25px 50px 35px 50px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.input-container {
+  margin-bottom: 5px;
+}
+
+.input-container input[type="text"],
+.input-container input[type="password"],
+.input-container textarea {
+  width: 100%;
+  padding: 14px 16px;
+  background-color: #262626;
+  border: 2px solid #444;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  font-family: 'Jura', sans-serif;
+  resize: vertical;
+}
+
+.input-container input[type="text"]:focus,
+.input-container input[type="password"]:focus,
+.input-container textarea:focus {
+  outline: none;
+  border-color: #3A5A8C;
+  box-shadow: 0 0 0 2px rgba(58,90,140,0.5);
+}
+
+.input-container input::placeholder,
+.input-container textarea::placeholder {
+  color: #aaa;
+}
+
+/* ====================================================== */
+/* ==================== FIELDSET ======================== */
+/* ====================================================== */
+fieldset {
+  border: 3px solid #333333;
+  border-radius: 6px;
+  padding: 18px 25px;
+  background-color: #1c1c1c;
+  box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+legend {
+  font-family: 'Changa', sans-serif;
+  font-weight: 700;
+  color: #fff;
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  padding: 0 10px;
+  margin-left: 12px;
+  background-color: #1c1c1c;
+  border: none;
+}
+
+.radio-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+fieldset label {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  color: #f5f5f5;
+  font-family: 'Jura', sans-serif;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+input[type="radio"] {
+  margin-right: 8px;
+  transform: scale(1.3);
+  accent-color: #3A5A8C;
+}
+
+/* ====================================================== */
+/* ================== INPUT DE DATA ====================== */
+/* ====================================================== */
+input[type="date"] {
+  width: 100%;
+  padding: 14px 16px;
+  background-color: #262626;
+  border: 2px solid #444;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 1rem;
+  font-family: 'Jura', sans-serif;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+/* Efeito de foco (mesmo estilo dos outros inputs) */
+input[type="date"]:focus {
+  outline: none;
+  border-color: #3A5A8C;
+  box-shadow: 0 0 0 2px rgba(58, 90, 140, 0.5);
+}
+
+/* Cor do placeholder (data vazia em navegadores como Chrome) */
+input[type="date"]::placeholder {
+  color: #aaa;
+}
+
+/* Estilo para o seletor de calendário no Chrome */
+input[type="date"]::-webkit-calendar-picker-indicator {
+  background-color: #3A5A8C;
+  border-radius: 4px;
+  padding: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator:hover {
+  background-color: #4e6fb2;
+  transform: scale(1.05);
+}
+
+
+
+
+
+/* ====================================================== */
+/* ===================== SELECT GERAL ==================== */
+/* ====================================================== */
+.input-container select {
+  width: 100%;
+  padding: 14px 16px;
+  background-color: #262626;
+  border: 2px solid #444;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 1rem;
+  font-family: 'Jura', sans-serif;
+  cursor: pointer;
+  appearance: none; /* Remove o estilo padrão */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  transition: all 0.3s ease;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg width='12' height='8' viewBox='0 0 12 8' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23FFFFFF' stroke-width='2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  background-size: 12px;
+}
+
+/* Hover e foco */
+.input-container select:hover {
+  border-color: #3A5A8C;
+}
+
+.input-container select:focus {
+  outline: none;
+  border-color: #3A5A8C;
+  box-shadow: 0 0 0 2px rgba(58, 90, 140, 0.5);
+}
+
+/* Cor das opções no dropdown */
+.input-container select option {
+  background-color: #1c1c1c;
+  color: #fff;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+/* ====================================================== */
+/* ================== RESPONSIVIDADE ===================== */
+/* ====================================================== */
+@media (max-width: 480px) {
+  .input-container select {
+    font-size: 0.95rem;
+    padding: 12px 14px;
+  }
+}
+
+/* ====================================================== */
+/* ====================== BOTÃO ========================= */
+/* ====================================================== */
+.botao-container {
+  margin-top: 15px;
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 14px;
+  background-color: #3A5A8C;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: 'Changa', sans-serif;
+}
+
+input[type="submit"]:hover {
+  background-color: #4e6fb2;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+input[type="submit"]:active {
+  transform: translateY(0);
+}
+
+/* ===== ESTILO PARA INPUT DE HORA (baseado no sistema) ===== */
+.input-container input[type="time"] {
+  width: 100%;
+  padding: 14px 16px;
+  background-color: #262626;
+  border: 2px solid #444;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 1rem;
+  font-family: 'Jura', sans-serif;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.input-container input[type="time"]:focus {
+  outline: none;
+  border-color: #3A5A8C;
+  box-shadow: 0 0 0 2px rgba(58, 90, 140, 0.5);
+}
+
+.input-container input[type="time"]::-webkit-calendar-picker-indicator {
+  background-color: #3A5A8C;
+  border-radius: 4px;
+  padding: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.input-container input[type="time"]::-webkit-calendar-picker-indicator:hover {
+  background-color: #4e6fb2;
+  transform: scale(1.05);
+}
+
+.input-container small {
+  display: block;
+  margin-top: 8px;
+  color: #888;
+  font-size: 0.85rem;
+  font-family: 'Jura', sans-serif;
+  font-style: italic;
+}
+
+/* ====================================================== */
+/* ====================== FOOTER ======================== */
+/* ====================================================== */
+.site-footer {
+  background-color: #111;
+  color: #fff;
+  margin-top: auto;
+  border-top: 1px solid #222;
+}
+
+.footer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.img_email {
+  height: 20px;
+  width: auto;
+}
+
+.contact-text {
+  font-size: 1rem;
+  font-weight: 500;
+  font-family: 'Jura', sans-serif;
+}
+
+.contact-text a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.contact-text a:hover {
+  text-decoration: underline;
+}
+
+.footer-center {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-align: center;
+}
+
+.logo_rodape {
+  height: 36px;
+  width: auto;
+}
+
+.center-text {
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.85);
+  max-width: 420px;
+  line-height: 1.3;
+}
+
+.footer-right {
+  font-size: 0.9rem;
+  font-family: 'Jura', sans-serif;
+  color: rgba(255,255,255,0.8);
+}
+
+/* ====================================================== */
+/* ==================== RESPONSIVIDADE ================== */
+/* ====================================================== */
+@media (max-width: 900px) {
+  .caixa_usuario {
+    max-width: 90%;
+    margin: 40px auto;
+  }
+
+  form {
+    padding: 20px 25px;
+  }
+
+  .footer-inner {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .center-text {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .caixa_usuario {
+    border-radius: 6px;
+    margin: 30px auto;
+  }
+
+  .titulo-container {
+    padding: 15px 5px 12px 5px;
+  }
+
+  form {
+    padding: 18px 20px;
+    gap: 10px;
+  }
+
+  .caixa_usuario h1 {
+    font-size: 1.6rem;
+  }
+
+  .radio-container {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  input[type="submit"] {
+    font-size: 1rem;
+    padding: 12px;
+  }
+
+  fieldset {
+    padding: 15px 20px;
+  }
+}
+
+/* ====================================================== */
+/* ==================== AUTOFILL CHROME ================= */
+/* ====================================================== */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0px 1000px #2a2a2a inset; /* fundo do input */
+    -webkit-text-fill-color: #fff;                     /* cor do texto */
+    transition: background-color 5000s ease-in-out 0s; /* previne piscadas */
+}
